@@ -10,7 +10,7 @@ management:
 app:
   scheduler:
     person:
-      enable: true
+      enable: false
       start: "0 */1 * * * *"
       stop: "0 */30 * * * *"
   kafka:
@@ -19,7 +19,7 @@ app:
   wiremock:
     url: https://8vyeq.wiremockapi.cloud
   test:
-    name: "Spring Dynamic Consumer Dev - test!"
+    name: "------------ mudei via properties do config server -------------"
 
 logging:
   level:
