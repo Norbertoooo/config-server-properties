@@ -18,6 +18,8 @@ app:
       topic: person.topic
   wiremock:
     url: https://8vyeq.wiremockapi.cloud
+  test:
+    name: "Spring Dynamic Consumer Dev - test!"
 
 logging:
   level:
