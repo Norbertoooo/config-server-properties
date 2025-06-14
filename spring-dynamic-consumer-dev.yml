@@ -19,7 +19,7 @@ app:
   wiremock:
     url: https://8vyeq.wiremockapi.cloud
   test:
-    name: "------------ mudei via properties do config server -------------"
+    name: ">>>>>>>>>>>> mudei via properties do config server <<<<<<<<<<<<<<"
 
 logging:
   level:
